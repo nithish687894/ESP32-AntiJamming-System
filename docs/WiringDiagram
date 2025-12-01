@@ -1,0 +1,19 @@
+
+---
+
+## 4. Wiring (ESP32 → NRF24)
+
+| NRF Pin | ESP32 Pin |
+|--------|-----------|
+| GND    | GND       |
+| VCC    | 3.3V      |
+| CE     | 4         |
+| CSN    | 5         |
+| SCK    | 18        |
+| MOSI   | 23        |
+| MISO   | 19        |
+
+---
+
+## 5. Run Firmware  
+Upload:
